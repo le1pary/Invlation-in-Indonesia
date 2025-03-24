@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vllm-project/vllm/main/docs/source/assets/logos/vllm-logo-text-dark.png">
-    <img alt="vLLM" src="https://raw.githubusercontent.com/vllm-project/vllm/main/docs/source/assets/logos/vllm-logo-text-light.png" width=55%>
+    <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/vllm-project/vllm/main/docs/source/assets/logos/vllm-logo-text-dark.png](https://www.google.com/imgres?q=logo%20inflasi&imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1314799872%2Fid%2Fvektor%2Fbagan-batang-dengan-panah-atas-merah-dan-koin-dolar-ikon-vektor.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DDZBGzi7KBEFCh0N1yxXJu7xqBLndPVZHMdpQBowX4_g%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fid%2Filustrasi%2Finflasi&docid=lU6gIs46AKP69M&tbnid=azaMpzWd5OY36M&vet=12ahUKEwjUsZ_EraOMAxUpyqACHZZGFvAQM3oECHIQAA..i&w=612&h=612&hcb=2&ved=2ahUKEwjUsZ_EraOMAxUpyqACHZZGFvAQM3oECHIQAA)">
+    <img alt="INFLATION" src="[https://raw.githubusercontent.com/vllm-project/vllm/main/docs/source/assets/logos/vllm-logo-text-light.png](https://www.google.com/imgres?q=logo%20inflasi&imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1314799872%2Fid%2Fvektor%2Fbagan-batang-dengan-panah-atas-merah-dan-koin-dolar-ikon-vektor.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DDZBGzi7KBEFCh0N1yxXJu7xqBLndPVZHMdpQBowX4_g%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fid%2Filustrasi%2Finflasi&docid=lU6gIs46AKP69M&tbnid=azaMpzWd5OY36M&vet=12ahUKEwjUsZ_EraOMAxUpyqACHZZGFvAQM3oECHIQAA..i&w=612&h=612&hcb=2&ved=2ahUKEwjUsZ_EraOMAxUpyqACHZZGFvAQM3oECHIQAA)" width=55%>
   </picture>
 </p>
 
